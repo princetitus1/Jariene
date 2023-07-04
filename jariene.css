@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+  }
+  
+  header {
+    background-color: #333;
+    padding: 30px ;
+    position: static;
+    color: white;
+  }
+  
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    float: right;
+  }
+  
+  nav li {
+    margin: 0 15px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s ease;
+   
+  }
+  
+  nav a:hover {
+    color: #ff9900; /* Change to your desired hover color */
+  }
+ h1{
+
+
+    text-align: center;
+ }
+
+ #p2{
+
+    text-align: center;
+font-size: large;
+ }
+ h2{
+margin: 20px;
+    
+ }
+ h3{
+margin: 20px;
+
+ }
+
+ p{
+
+    font-size: large;
+    margin: 20px;
+ }
+ h3{
+
+    margin: 20px;  
+ }
+
+dl{
+
+    margin: 20px;
+}
+
+
+
+
+
+
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
